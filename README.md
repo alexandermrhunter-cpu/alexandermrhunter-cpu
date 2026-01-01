@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Alex
 
-<!--
-**alexandermrhunter-cpu/alexandermrhunter-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Builder of viral web apps, AI tools and interactive experiences  
+💻 Web • AI • Automation • Growth hacking  
+🌍 Based in Sweden
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ What I build
+
+| Category | Projects |
+|---------|----------|
+| 🎉 Viral apps | Countdown platforms, shareable experiences |
+| 🤖 AI tools | Recommendation engines, content generators |
+| 🌐 Web platforms | Landing pages, SaaS MVPs |
+| 📈 Growth systems | SEO, analytics, traffic engines |
+
+---
+
+## 🏗️ Live Projects
+
+| Name | Description | Live |
+|----|------------|-----|
+| WatchWick | AI “What To Watch” generator | Coming |
+| Birthday Buzz | Viral birthday platform | https://birthday-buzzing.netlify.app |
+| Global News Hub | Real-time trends & news engine | Coming |
+
+---
+
+## 🧠 Tech Stack
+
+---
+
+## 📫 Contact
+💬 GitHub Issues  
+🌐 Websites linked in repos
+
+---
+
+> “Building internet machines that print attention.”
