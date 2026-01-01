@@ -2,7 +2,6 @@
 
 🚀 Builder of viral web apps, AI tools and interactive experiences  
 💻 Web • AI • Automation • Growth hacking  
-🌍 Based in Sweden
 
 ---
 
