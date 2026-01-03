@@ -16,16 +16,6 @@
 
 ---
 
-## 🏗️ Live Projects
-
-| Name | Description | Live |
-|----|------------|-----|
-| WatchWick | AI “What To Watch” generator | Coming |
-| Birthday Buzz | Viral birthday platform | https://birthday-buzzing.netlify.app |
-| Global News Hub | Real-time trends & news engine | Coming |
-
----
-
 ## 🧠 Tech Stack 
 
 ---
